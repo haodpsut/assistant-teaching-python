@@ -1,0 +1,5 @@
+{
+  "name": "Trợ Lý Giảng Dạy Python",
+  "description": "Một ứng dụng web tương tác để học lập trình Python, bao gồm tóm tắt lý thuyết, ví dụ code, bài tập và chấm điểm tự động bằng AI.",
+  "requestFramePermissions": []
+}
